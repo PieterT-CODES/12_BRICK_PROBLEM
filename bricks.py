@@ -10,7 +10,7 @@ for i in range(12):
     else:
         bricks.append(random.choice([50,150]))   
 
-#....................FUNCTIONs............................................
+#....................USEFUL FUNCTIONs............................................
 def heavier_is_fake(val1,val2,index_val1,index_val2):
     index_val1 = index_val1 + 1
     index_val2 = index_val2 + 1
